@@ -1,0 +1,18 @@
+{
+  "enviro": [
+    {
+      "ts": "2021-06-23 13:45:32.612873",
+      "temperature": -40.0,
+      "pressure": 100.511925781,
+      "humidity": 36.187,
+      "ambient_light": 300.56
+    },
+    {
+      "ts": "2021-06-23 13:45:33.665011",
+      "temperature": 33.297,
+      "pressure": 100.513824218,
+      "humidity": 37.162,
+      "ambient_light": 1237.76
+    }
+  ]
+}

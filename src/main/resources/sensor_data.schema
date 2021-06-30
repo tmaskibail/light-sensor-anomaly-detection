@@ -1,0 +1,1 @@
+deviceId:STRING,deviceNumId:STRING,deviceRegistryId:STRING,deviceRegistryLocation:STRING,projectId:STRING,subFolder:STRING,ts:STRING,temperature:NUMERIC,pressure:NUMERIC,humidity:NUMERIC,ambientLight:NUMERIC
